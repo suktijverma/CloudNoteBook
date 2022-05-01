@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CloudNoteBook/static/css/main.598a6723.css",
+    "main.js": "/CloudNoteBook/static/js/main.93f57a6c.js",
+    "index.html": "/CloudNoteBook/index.html",
+    "main.598a6723.css.map": "/CloudNoteBook/static/css/main.598a6723.css.map",
+    "main.93f57a6c.js.map": "/CloudNoteBook/static/js/main.93f57a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598a6723.css",
+    "static/js/main.93f57a6c.js"
+  ]
+}
